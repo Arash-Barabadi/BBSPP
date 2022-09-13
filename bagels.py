@@ -12,7 +12,7 @@ MAX_GUESSES = 10 # (!) Try setting this to 1 or 100.
 
 
 def main() :
-    print("""Bagels, a deductive logic game...
+    print("""Bagels, a deductive logic game.
 By Al Sweigart al@inventwithpython.
 
 I am thinking of a {}-digit number with no repeated digits.
