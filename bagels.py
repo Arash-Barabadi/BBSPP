@@ -96,3 +96,5 @@ def getClues(guess, secretNum)  :
 # If the problem is run (instead of imported), run the game :
 if __name__ == '__main__' :
     main()
+    
+#HJ
