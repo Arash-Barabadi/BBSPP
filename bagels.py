@@ -98,5 +98,5 @@ if __name__ == '__main__' :
     main()
     
 #BMW X7
-#Hey jude don't make it bad.
+#Don't make it bad.
 #Ferrari 458
